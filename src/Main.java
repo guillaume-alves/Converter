@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+ 
 public class Main {
 
     public static double arrondi(double A, int B) {
